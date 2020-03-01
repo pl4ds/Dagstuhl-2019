@@ -9,7 +9,7 @@
 - [Rohan Achar](https://github.com/pl4ds/Dagstuhl-2019/blob/master/rohan_GoT.pptx)
 - [Carlos Baquero](https://github.com/pl4ds/Shonan-2019/blob/master/Carla_Ferreira.pdf)
 - [Annette Bieniusa](https://github.com/pl4ds/Shonan-2019/blob/master/Carlos_Baquero.pdf)
-- [Uwe Breitenbücher](https://github.com/pl4ds/Shonan-2019/blob/master/Carlos_Varela.pdf)
+- [Uwe Breitenbücher](https://github.com/pl4ds/Shonan-2019/blob/master/Deployment Automation - Uwe Breitenbuecher.pdf)
 - [Sebastian Burckhardt](https://github.com/pl4ds/Shonan-2019/blob/master/Damien_Zufferey.pdf)
 - [Surajit Chaudhuri](https://github.com/pl4ds/Shonan-2019/blob/master/Elisa_Gonzalez_Boix.pdf)
 - [Natalia Chechina](https://github.com/pl4ds/Shonan-2019/blob/master/Elisa_Gonzalez_Boix_Demo.pdf)
@@ -32,7 +32,6 @@
 - [Damien Zufferey](https://github.com/pl4ds/Shonan-2019/blob/master/Xavier_Defago.pdf)
 
 
-![photo](/Images/shonan.jpeg)
 
 
 
