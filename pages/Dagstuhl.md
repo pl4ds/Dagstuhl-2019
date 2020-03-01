@@ -18,7 +18,7 @@
 - [Patrick Thomas Eugster](https://github.com/pl4ds/Shonan-2019/blob/master/Marjan_Sirjani.pdf)
 - [Carla Ferreira](https://github.com/pl4ds/Shonan-2019/blob/master/Nadeem_jamali.pdf)
 - [Torsten Grust](https://github.com/pl4ds/Shonan-2019/blob/master/Nobuko_Yoshida.pdf)
-- [Philipp Haller](https://github.com/pl4ds/Shonan-2019/blob/master/Pascal_Felber.pdf)
+- [Philipp Haller](https://github.com/pl4ds/Shonan-2019/blob/master/Haller2019-Dagstuhl-PL4DS.pdf)
 - [Edward A.Lee](https://github.com/pl4ds/Shonan-2019/blob/master/Patrick_Eugster.pdf)
 - [Heather Miller](https://github.com/pl4ds/Shonan-2019/blob/master/Philipp_Haller.pdf)
 - [Aleksandar Prokopec](https://github.com/pl4ds/Shonan-2019/blob/master/Sebastian_Burckhardt.pdf)
