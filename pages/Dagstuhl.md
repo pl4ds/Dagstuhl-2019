@@ -5,24 +5,24 @@
 
 ## Presentations
 
-
-- [Sebastian Burckhardt](https://github.com/pl4ds/Dagstuhl-2019/blob/master/Burckhardt-Dagstuhl2019-StatefulServerless.pptx)
 - [Amit K.Chopra](https://github.com/pl4ds/Dagstuhl-2019/blob/master/Chopra-Programming-For-Autonomy.pdf)
 - [Carlos Baquero](https://github.com/pl4ds/Dagstuhl-2019/blob/master/dagstuhl2019.pdf)
-- [Uwe Breitenbücher](https://github.com/pl4ds/Dagstuhl-2019/blob/master/DeploymentAutomation-UweBreitenbuecher.pdf)
-- [Schahram Dustdar](https://github.com/pl4ds/Dagstuhl-2019/blob/master/DistributedSystems_Dustdar_29-10-2019_Dagstuhl.pdf)
-- [Patrick Thomas Eugster](https://github.com/pl4ds/Dagstuhl-2019/blob/master/Eugster-AEON_PLASMA-DagstuhlPL4DS19.pdf)
-- [Philipp Haller](https://github.com/pl4ds/Dagstuhl-2019/blob/master/Haller2019-Dagstuhl-PL4DS.pdf)
+- [Damien Zufferey](https://github.com/pl4ds/Dagstuhl-2019/blob/master/zufferey-verification.pdf)
 - [Edward A.Lee](https://github.com/pl4ds/Dagstuhl-2019/blob/master/Lee-ActorsRevisited_Dagstuhl.pdf)
-- [Natalia Chechina](https://github.com/pl4ds/Dagstuhl-2019/blob/master/n-chechina-dagstuhl-2019.pptx)
 - [Laurent Prosperi](https://github.com/pl4ds/Dagstuhl-2019/blob/master/Prosperi2019-Dagstuhl-PL4DS.pdf)
-- [Rohan Achar](https://github.com/pl4ds/Dagstuhl-2019/blob/master/rohan_GoT.pptx)
+- [Marjan Sirjani](https://github.com/pl4ds/Dagstuhl-2019/blob/master/Sirjani-DagstuhlDistributedLanguages-2019.pdf)
 - [Marc Shapiro](https://github.com/pl4ds/Dagstuhl-2019/blob/master/shapiro_Continuum.pdf)
 - [Marc Shapiro, Annette Bieniusa](https://github.com/pl4ds/Dagstuhl-2019/blob/master/shapiro_JustRightConsistency.pdf)
-- [Marjan Sirjani](https://github.com/pl4ds/Dagstuhl-2019/blob/master/Sirjani-DagstuhlDistributedLanguages-2019.pdf)
-- [Surajit Chaudhuri](https://github.com/pl4ds/Dagstuhl-2019/blob/master/SurajitChaudhuri_Dagstuhl2019SC.pdf)
+- [Natalia Chechina](https://github.com/pl4ds/Dagstuhl-2019/blob/master/n-chechina-dagstuhl-2019.pptx)
+- [Patrick Thomas Eugster](https://github.com/pl4ds/Dagstuhl-2019/blob/master/Eugster-AEON_PLASMA-DagstuhlPL4DS19.pdf)
 - [Peter Van Roy](https://github.com/pl4ds/Dagstuhl-2019/blob/master/VanRoy-Piecewise-Purity.pdf)
-- [Damien Zufferey](https://github.com/pl4ds/Dagstuhl-2019/blob/master/zufferey-verification.pdf)
+- [Philipp Haller](https://github.com/pl4ds/Dagstuhl-2019/blob/master/Haller2019-Dagstuhl-PL4DS.pdf)
+- [Rohan Achar](https://github.com/pl4ds/Dagstuhl-2019/blob/master/rohan_GoT.pptx)
+- [Schahram Dustdar](https://github.com/pl4ds/Dagstuhl-2019/blob/master/DistributedSystems_Dustdar_29-10-2019_Dagstuhl.pdf)
+- [Sebastian Burckhardt](https://github.com/pl4ds/Dagstuhl-2019/blob/master/Burckhardt-Dagstuhl2019-StatefulServerless.pptx)
+- [Surajit Chaudhuri](https://github.com/pl4ds/Dagstuhl-2019/blob/master/SurajitChaudhuri_Dagstuhl2019SC.pdf)
+- [Uwe Breitenbücher](https://github.com/pl4ds/Dagstuhl-2019/blob/master/DeploymentAutomation-UweBreitenbuecher.pdf)
+
 
 
 
