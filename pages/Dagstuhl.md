@@ -14,7 +14,7 @@
 - [Patrick Thomas Eugster](https://github.com/pl4ds/Dagstuhl-2019/blob/master/Eugster-AEON_PLASMA-DagstuhlPL4DS19.pdf)
 - [Philipp Haller](https://github.com/pl4ds/Dagstuhl-2019/blob/master/Haller2019-Dagstuhl-PL4DS.pdf)
 - [Edward A.Lee](https://github.com/pl4ds/Dagstuhl-2019/blob/master/Lee-ActorsRevisited_Dagstuhl.pdf)
-- [Natalia Chechina](https://github.com/pl4ds/Dagstuhl-2019/blob/master/n-chechina-dagstuhl-2019.pdf)
+- [Natalia Chechina](https://github.com/pl4ds/Dagstuhl-2019/blob/master/n-chechina-dagstuhl-2019.pptx)
 - [Laurent Prosperi](https://github.com/pl4ds/Dagstuhl-2019/blob/master/Prosperi2019-Dagstuhl-PL4DS.pdf)
 - [Rohan Achar](https://github.com/pl4ds/Dagstuhl-2019/blob/master/rohan_GoT.pptx)
 - [Marc Shapiro](https://github.com/pl4ds/Dagstuhl-2019/blob/master/shapiro_Continuum.pdf)
