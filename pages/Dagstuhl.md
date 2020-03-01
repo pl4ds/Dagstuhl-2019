@@ -4,9 +4,8 @@
 [Official page of the meeting](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=19442)
 
 ## Presentations
-## Participants
 
-- [Rohan Achar](https://github.com/pl4ds/Dagstuhl-2019/blob/master/rohan_GoT.pptx)
+- [Rohan Achar](https://github.com/pl4ds/Dagstuhl-2019/master/rohan_GoT.pptx)
 - [Carlos Baquero](https://github.com/pl4ds/Dagstuhl-2019/blob/master/Carla_Ferreira.pdf)
 - [Annette Bieniusa](https://github.com/pl4ds/Dagstuhl-2019/blob/master/Carlos_Baquero.pdf)
 - [Uwe Breitenbücher](https://github.com/pl4ds/Dagstuhl-2019/blob/master/DeploymentAutomation - Uwe Breitenbuecher.pdf)
