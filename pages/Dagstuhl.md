@@ -9,7 +9,7 @@
 - [Sebastian Burckhardt](https://github.com/pl4ds/Dagstuhl-2019/blob/master/Burckhardt-Dagstuhl2019-StatefulServerless.pptx)
 - [Amit K.Chopra](https://github.com/pl4ds/Dagstuhl-2019/blob/master/Chopra-Programming-For-Autonomy.pdf)
 - [Carlos Baquero](https://github.com/pl4ds/Dagstuhl-2019/blob/master/dagstuhl2019.pdf)
-- [Uwe Breitenbücher](https://github.com/pl4ds/Dagstuhl-2019/blob/master/DeploymentAutomation_UweBreitenbuecher.pdf)
+- [Uwe Breitenbücher](https://github.com/pl4ds/Dagstuhl-2019/blob/master/DeploymentAutomation-UweBreitenbuecher.pdf)
 - [Schahram Dustdar](https://github.com/pl4ds/Dagstuhl-2019/blob/master/DistributedSystems_Dustdar_29-10-2019_Dagstuhl.pdf)
 - [Patrick Thomas Eugster](https://github.com/pl4ds/Dagstuhl-2019/blob/master/Eugster-AEON_PLASMA-DagstuhlPL4DS19.pdf)
 - [Philipp Haller](https://github.com/pl4ds/Dagstuhl-2019/blob/master/Haller2019-Dagstuhl-PL4DS.pdf)
